@@ -8,6 +8,6 @@
 
 3. 若是想要生成預覽檔，則使用PowerPoint或者Google Sheet將ppt轉換成pdf檔並放入preview資料夾
 
-4. commit -> Pull Request 到accomdemy上即可
+4. Commit -> Pull Request 到 Accomdemy 上即可
 
 不太熟悉Github的操作？ 看[這裏](https://forum.amebaiot.com/t/5-github-ameba/459)就好！
