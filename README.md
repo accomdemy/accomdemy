@@ -1,4 +1,4 @@
-# Accomdemy 伴伴学
+# Accomdemy 伴伴学 伴伴學
 
 ![logo](/media/logo/banbanxue.jpg)
 
