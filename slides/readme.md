@@ -1,6 +1,8 @@
 # 使用守則
 
-GitHub中剪報和PDF檔為 Accomdemy Google 雲端硬盤中的備份，詳細資料請前往 [Accomdemy Google 雲端硬盤](https://drive.google.com/drive/u/1/folders/10jkvGMkOb0-lPl3-siXw0lDfmpxfrrnQ) 進行下載 
+1. GitHub中剪報和PDF檔為 Accomdemy Google 雲端硬盤中的備份，詳細資料請前往 [Accomdemy Google 雲端硬盤](https://drive.google.com/drive/u/1/folders/10jkvGMkOb0-lPl3-siXw0lDfmpxfrrnQ) 進行下載 
+
+2. 每個資料夾中下的 Preview 可以點擊進行簡報内容的預覽
 
 # 上傳須知
 
@@ -15,3 +17,4 @@ GitHub中剪報和PDF檔為 Accomdemy Google 雲端硬盤中的備份，詳細�
 4. Commit -> Pull Request 到 Accomdemy 上即可
 
 > 不太熟悉Github的操作？ 看[這裏](https://forum.amebaiot.com/t/5-github-ameba/459)就好！
+
