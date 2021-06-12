@@ -1,5 +1,8 @@
 # 20210523 伴伴學：Arduino live coding
 
+[![hackmd-github-sync-badge](https://hackmd.io/YvYWAfxSSgSImFg9tn43bQ/badge)](https://hackmd.io/YvYWAfxSSgSImFg9tn43bQ)
+
+
 ## 簡介
 因為 arduino.taipei 社團的網友在使用 arduino 遇到問題無法順利解決，因此邀請他做視訊交流，分享他是如何寫程式使用開發板，希望獲得大家有效及時的幫助解決他面臨的問題。
 社團發文討論請見：
