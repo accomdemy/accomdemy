@@ -1,4 +1,8 @@
-# Accomdemy 伴伴学 伴伴學
+**語言選擇**
+
+[繁體中文](README.md) | [English](readme/readme.en.md)
+
+# 伴伴學
 
 ![logo](/media/logo/banbanxue.jpg)
 
