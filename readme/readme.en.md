@@ -1,6 +1,6 @@
 **語言選擇**
 
-[繁體中文](../../README.md) | [English](readme.en.md)
+[繁體中文](../README.md) | [English](readme.en.md)
 
 # Accomdemy 
 
