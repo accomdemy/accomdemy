@@ -1,3 +1,7 @@
+**語言選擇**
+
+[繁體中文](README.md) | [English](readme/readme.en.md)
+
 # Accomdemy 
 
 ![logo](/media/logo/banbanxue.jpg)
