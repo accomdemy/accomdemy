@@ -1,4 +1,6 @@
-[English](readme.en.md)  | [繁體中文](readme.md)
+**語言選擇**
+
+[English](readme.en.md)  | [繁體中文](readme.md) | [简体中文](readme.cn.md)
 
 目錄
 ===
@@ -93,4 +95,5 @@ Commit上傳文件
 =======
 
 > 不太熟悉Github的操作？ 看[這裏](https://forum.amebaiot.com/t/5-github-ameba/459)就好！
+
 
