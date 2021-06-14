@@ -1,26 +1,26 @@
-**語言選擇**
+**Language Preference**
 
 [English](readme.en.md)  | [繁體中文](readme.md) | [简体中文](readme.cn.md)
 
-目錄
-===
+Table of Content
+================
 
-- [使用守則](#使用守則)
-- [上傳須知](#上傳須知)
-  - [第一步：fork 這個 repository](#fork這個repository)
-  - [第二步：在自己 fork 的 repository裏，進入 accomdemt/slide 文件路徑上傳文件](上傳簡報檔)
-  - [第三步：上傳可預覽的PDF檔](上傳可預覽的PDF檔)
-  - [第四步：Commit 上傳文件](Commit上傳文件)
-  - [第五步：提交Pull Request](提交PR)
-- [資料參考](#資料參考)
+- [Usage Guidelines](#usage-guidelines)
+- [Upload Instructions](#upload-instructions)
+  - [Step 1: Fork this repository](#fork-this-repository)
+  - [Step 2: In the repository of your fork, enter the accomdemt/slide file path to upload files](upload briefing files)
+  - [Step 3: Upload a previewable PDF file](Upload a previewable PDF file)
+  - [Step 4: Commit uploading files](Commit uploading files)
+  - [Step 5: Submit Pull Request](Submit PR)
+- [Information reference](#Information reference)
 
 
-使用守則
-=======
+Usage Guidelines
+================
 
-**1. GitHub中剪報和PDF檔為 Accomdemy Google 雲端硬盤中的備份，詳細資料請前往 [Accomdemy Google 雲端硬盤](https://drive.google.com/drive/u/1/folders/10jkvGMkOb0-lPl3-siXw0lDfmpxfrrnQ) 進行下載**
+**1. The ppt slides and PDF files in GitHub are backups from the Accomdemy Google Cloud Drive, for details，please visit [Accomdemy Google Cloud Drive](https://drive.google.com/drive/u/1/folders/10jkvGMkOb0-lPl3-siXw0lDfmpxfrrnQ) to download**
 
-**2. 資料夾結構介紹**
+**2. Introduction to Folder Structure**
 
 ```bash
    |- slides
@@ -29,25 +29,28 @@
          |- preview
             |- 210101 - 陪你入門GitHub.pdf   
 ```
-按照文件命名守則上傳的資料夾（例如 `210101 - 陪你入門GitHub`）内必須包含一個與資料夾同名的 `.ppt` 文件和一個命名為 `preview` 的資料夾
+Folders uploaded to GitHub must follow the above naming convention (e.g. `210101 - Getting Started with GitHub`) must contain a `.ppt` file with the same name as the folder, together with another folder named `preview`.
 
-每個資料夾中的 `Preview` 路徑可以直接點擊，包含一個與文件夾同名的 `.pdf` 檔方便網頁内進行簡報内容預覽。
+The `Preview` path in each folder can be clicked directly, and includes a `.pdf` file with the same name as the folder for previews of presentations on the web.
 
-**3. 文件命名守則**
+**3. File naming convention **
 
-爲了方便後續文件檔的管理以及伴學成員們閲讀的便利，在進行簡報和PDF的PR上傳時，請按照如下文件命名方式進行檔案夾和文件的重命名
+For ease of file management and ease of reading for Accomdemy members, please rename your folders and files as follows when uploading PRs for presentations and PDFs
    
-   - `時間（YYMMDD）- 簡報名稱` （例如 `210101 - 陪你入門GitHub`）
+   - `Time (YYMMDD) - Presentation Name` (e.g. `210101 - Getting Started with GitHub`)
 
-**4. 會直接使用 `markdown` 寫簡報的朋友，也可以將架設在您 GitHub 服務器上的簡報路徑, 在資料夾添加 `readme.MD` 文件后貼入，并請詳細標注使用方法，便於伴學成員們的使用**
+**4. For those who can write presentations directly using `markdown`, you can also add a `readme.MD` file to the presentation path set up on your GitHub server and paste it into the folder with a detailed description of how to use it, for ease of use by your fellow learners**.
 
-上傳須知
-=======
+
+                               ------------------------- UNDER CONSTRUCTION -------------------------
+
+<!-- Upload Instructions
+===================
 
 請大家按照以下步驟來上傳最新的簡報
 
-fork這個repository
------------------
+Fork this repository
+--------------------
 
 進入伴伴學 Accomdemy GitHub 然後點擊右上方 `fork` 按鈕
 
@@ -97,3 +100,4 @@ Commit上傳文件
 > 不太熟悉Github的操作？ 看[這裏](https://forum.amebaiot.com/t/5-github-ameba/459)就好！
 
 
+ -->
