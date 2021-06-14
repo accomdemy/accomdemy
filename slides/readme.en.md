@@ -1,4 +1,4 @@
-語言選擇 
+**語言選擇**
 
 [English](readme.en.md)  | [繁體中文](readme.md) | [简体中文](readme.cn.md)
 
