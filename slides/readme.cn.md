@@ -2,7 +2,7 @@
 
 [English](readme.en.md)  | [繁體中文](readme.md) | [简体中文](readme.cn.md)
 
-目錄
+目录
 ===
 
 - [使用守则](#使用守则)
